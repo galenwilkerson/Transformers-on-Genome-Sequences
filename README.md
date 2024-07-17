@@ -71,7 +71,7 @@ jupyter notebook "Transformers on Genome Sequences.ipynb"
 
 The UMAP visualization shows clusters of DNA sequence embeddings, colored by the organism they belong to. The project highlights the relationships and differences between the sequences from different organisms.
 
-![UMAP projection](path/to/your/image/umap_plot_with_organisms.png)
+![UMAP projection](./dnabert_umap.png)
 
 ## Contributing
 
