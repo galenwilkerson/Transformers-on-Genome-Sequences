@@ -1,7 +1,7 @@
 # Transformers on Genome Sequences
 
 
-<img src="./dnabert_umap.png" width="400" height="400">
+<img src="./dnabert_umap.png" width="450" height="400">
 
 This repository demonstrates the use of transformers, including pre-trained BERT and DNABERT, to analyze and visualize genome sequences. The project downloads mitochondrial DNA sequences from various organisms, preprocesses them, and uses these transformer models to generate embeddings. These embeddings are then visualized using UMAP and clustered to observe the relationships between sequences from different organisms.
 
